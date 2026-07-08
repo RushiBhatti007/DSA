@@ -1,17 +1,20 @@
 class Solution {
 public:
-
-    bool sol(string& s , int left , int right){
-        
-        while(left<right && !isalnum(s[left])) left++;
-        while(left<right && !isalnum(s[right])) right--;
-        if(left>=right) return true;
-        if(tolower(s[left])!=tolower(s[right])) return false;
-        return sol(s,left+1,right-1);
-    }
     bool isPalindrome(string s) {
-        if(s.empty()) return true;
+        string temp="";
+        for(char c : s){
+            if(isalnum(c)) temp +=tolower(c);
+        }
 
-        return sol(s,0,s.size()-1);
+        int i=0;
+        int j=temp.size()-1;
+
+        while(i<j){
+            if(temp[i]!=temp[j]) return false;
+
+            i++;
+            j--;
+        }
+        return true;
     }
 };
