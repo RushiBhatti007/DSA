@@ -4,14 +4,6 @@ public:
         
         if(n<=1) return n;
 
-        int last=1 , slast=0 , crunt=0;
-
-        for(int i=2 ; i<=n ; i++){
-            crunt=last+slast;
-            slast=last;
-            last=crunt;
-        }
-
-        return crunt;
+        return fib(n-1) + fib(n-2);
     }
 };
