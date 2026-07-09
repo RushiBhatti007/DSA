@@ -26,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RushiBhatti007/DSA/tree/master/0001-two-sum) |
 | [1390-four-divisors](https://github.com/RushiBhatti007/DSA/tree/master/1390-four-divisors) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/RushiBhatti007/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
