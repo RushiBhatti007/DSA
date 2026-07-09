@@ -7,13 +7,25 @@ public:
         if(n == 0) return;
 
         k = k % n;
+        
+        int cnt=0;
 
-        reverse(nums.begin(),nums.end());
-        reverse(nums.begin() , nums.begin()+k);
-        reverse(nums.begin()+k , nums.end());
+        for(int start=0 ; cnt < n ; start++){
 
-        for(int i : nums){
-            cout << i <<" ";
+            int crnt=start;
+            int prevl=nums[start];
+
+            do{
+                int next = (crnt + k ) %n;
+
+                int temp=nums[next];
+                nums[next]=prevl;
+                prevl=temp;
+
+                crnt = next;
+                cnt++;
+            }while(crnt != start);
         }
+
     }
 };
