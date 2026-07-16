@@ -1,19 +1,11 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
+        int n=nums.size();
+        k%=n;
+        nums.insert(nums.end(),nums.begin(),nums.end());
 
-    int n = nums.size();
-
-        if(n == 0) return;
-
-        k = k % n;
-
-        reverse(nums.begin(),nums.end());
-        reverse(nums.begin() , nums.begin()+k);
-        reverse(nums.begin()+k , nums.end());
-
-        for(int i : nums){
-            cout << i <<" ";
-        }
+        vector<int> sub(nums.begin()+(n-k) , nums.begin()+(2*n-k));
+        nums=sub;
     }
 };
