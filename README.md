@@ -30,6 +30,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RushiBhatti007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RushiBhatti007/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/RushiBhatti007/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RushiBhatti007/DSA/tree/master/0485-max-consecutive-ones) |
 | [1390-four-divisors](https://github.com/RushiBhatti007/DSA/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RushiBhatti007/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -51,6 +52,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RushiBhatti007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RushiBhatti007/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/RushiBhatti007/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
