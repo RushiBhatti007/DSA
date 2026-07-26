@@ -8,11 +8,13 @@ public:
 
         for(int i=1 ; i<n ; i++){
 
-            crntsum = max(crntsum + nums[i] , nums[i]);
-            sum = max(sum , crntsum);
+            if(crntsum + nums[i] > nums[i]) crntsum = crntsum + nums[i];
+
+            else crntsum = nums[i];
+
+            if(crntsum > sum) sum =  crntsum;
 
         }
-        
         return sum;
     }
 };
