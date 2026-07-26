@@ -2,12 +2,17 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n=nums.size();
-        int XOR=0;
+        
+        unordered_map<int,int> mpp;
 
-        for(int i=0 ; i<n ; i++){
-            XOR^=nums[i];
+        for(int i : nums){
+            mpp[i]++;
         }
 
-        return XOR;
+        for(auto it : mpp){
+            if(it.second==1) return it.first;
+        }
+
+        return 0;
     }
 };
