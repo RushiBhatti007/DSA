@@ -6,38 +6,34 @@
  *     ListNode() : val(0), next(nullptr) {}
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
+ };
  */
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        
-        if (head == nullptr) return nullptr;
-        
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
 
-        if(head->next == nullptr && head->val == val) return nullptr;
+        ListNode* prev = dummy;
+        ListNode* curr = head;
 
-        while(head != nullptr && head->val == val){
-            ListNode* del = head;
-            head = head->next;
-            delete del;
-        }
+        while (curr != nullptr) {
 
-        ListNode* temp=head;
-        ListNode* back=head;
-
-        while(temp != nullptr){
-
-            if(temp->val == val){
-                back->next=temp->next;
-                ListNode* del=temp;
-                temp=temp->next;
+            if (curr->val == val) {
+                prev->next = curr->next;
+                ListNode* del = curr;
+                curr = curr->next;
                 delete del;
-                continue;
             }
-            back=temp;
-            temp=temp->next;
+            else {
+                prev = curr;
+                curr = curr->next;
+            }
         }
+
+        head = dummy->next;
+        delete dummy;
         return head;
+
     }
 };
