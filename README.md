@@ -19,6 +19,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/RushiBhatti007/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/RushiBhatti007/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RushiBhatti007/DSA/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/RushiBhatti007/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
