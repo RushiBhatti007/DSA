@@ -2,23 +2,27 @@ class Solution {
 public:
     int calPoints(vector<string>& operations) {
 
-        vector<int> st;
+        vector<int> ans;
+        int sum = 0;
 
-        for(const string& op : operations) {
+        for(int i = 0; i < operations.size(); i++) {
 
-            if(op == "C")
-                st.pop_back();
+            if(operations[i] == "C")
+                ans.pop_back();
 
-            else if(op == "D")
-                st.push_back(2 * st.back());
+            else if(operations[i] == "D")
+                ans.push_back(ans.back() * 2);
 
-            else if(op == "+")
-                st.push_back(st[st.size()-1] + st[st.size()-2]);
+            else if(operations[i] == "+")
+                ans.push_back(ans[ans.size()-1] + ans[ans.size()-2]);
 
             else
-                st.push_back(stoi(op));
+                ans.push_back(stoi(operations[i]));
         }
 
-        return accumulate(st.begin(), st.end(), 0);
+        for(auto it : ans)
+            sum += it;
+
+        return sum;
     }
 };
