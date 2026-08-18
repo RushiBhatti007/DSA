@@ -38,6 +38,7 @@
 | [0189-rotate-array](https://github.com/RushiBhatti007/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RushiBhatti007/DSA/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/RushiBhatti007/DSA/tree/master/0682-baseball-game) |
 | [1390-four-divisors](https://github.com/RushiBhatti007/DSA/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RushiBhatti007/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RushiBhatti007/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -80,6 +81,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/RushiBhatti007/DSA/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RushiBhatti007/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RushiBhatti007/DSA/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/RushiBhatti007/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
