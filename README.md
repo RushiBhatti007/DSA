@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/RushiBhatti007/DSA/tree/master/0125-valid-palindrome) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RushiBhatti007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,4 +106,5 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/RushiBhatti007/DSA/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RushiBhatti007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
