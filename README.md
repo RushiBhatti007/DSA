@@ -38,6 +38,7 @@
 | [0169-majority-element](https://github.com/RushiBhatti007/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RushiBhatti007/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RushiBhatti007/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/RushiBhatti007/DSA/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/RushiBhatti007/DSA/tree/master/0682-baseball-game) |
 | [1390-four-divisors](https://github.com/RushiBhatti007/DSA/tree/master/1390-four-divisors) |
@@ -66,6 +67,7 @@
 | [0141-linked-list-cycle](https://github.com/RushiBhatti007/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/RushiBhatti007/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RushiBhatti007/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RushiBhatti007/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RushiBhatti007/DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/RushiBhatti007/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RushiBhatti007/DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/RushiBhatti007/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -113,4 +117,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RushiBhatti007/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RushiBhatti007/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
