@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/RushiBhatti007/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RushiBhatti007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/RushiBhatti007/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RushiBhatti007/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RushiBhatti007/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RushiBhatti007/DSA/tree/master/0169-majority-element) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RushiBhatti007/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/RushiBhatti007/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RushiBhatti007/DSA/tree/master/0169-majority-element) |
 ## Enumeration
@@ -107,4 +109,8 @@
 | ------- |
 | [0682-baseball-game](https://github.com/RushiBhatti007/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RushiBhatti007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
