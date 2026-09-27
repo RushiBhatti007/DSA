@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RushiBhatti007/DSA/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/RushiBhatti007/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RushiBhatti007/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/RushiBhatti007/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RushiBhatti007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -143,4 +144,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RushiBhatti007/DSA/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RushiBhatti007/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RushiBhatti007/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
