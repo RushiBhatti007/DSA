@@ -67,6 +67,7 @@
 | [0015-3sum](https://github.com/RushiBhatti007/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RushiBhatti007/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RushiBhatti007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/RushiBhatti007/DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/RushiBhatti007/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RushiBhatti007/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/RushiBhatti007/DSA/tree/master/0189-rotate-array) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RushiBhatti007/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/RushiBhatti007/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/RushiBhatti007/DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/RushiBhatti007/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RushiBhatti007/DSA/tree/master/0206-reverse-linked-list) |
