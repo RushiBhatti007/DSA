@@ -78,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RushiBhatti007/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/RushiBhatti007/DSA/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RushiBhatti007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
@@ -122,6 +123,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RushiBhatti007/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/RushiBhatti007/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/RushiBhatti007/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RushiBhatti007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RushiBhatti007/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RushiBhatti007/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
