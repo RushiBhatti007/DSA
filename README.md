@@ -34,6 +34,7 @@
 | [0001-two-sum](https://github.com/RushiBhatti007/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/RushiBhatti007/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RushiBhatti007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RushiBhatti007/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RushiBhatti007/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/RushiBhatti007/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -141,6 +142,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RushiBhatti007/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RushiBhatti007/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RushiBhatti007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RushiBhatti007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
