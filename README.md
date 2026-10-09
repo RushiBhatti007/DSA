@@ -45,6 +45,7 @@
 | [0162-find-peak-element](https://github.com/RushiBhatti007/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RushiBhatti007/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RushiBhatti007/DSA/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RushiBhatti007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RushiBhatti007/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/RushiBhatti007/DSA/tree/master/0485-max-consecutive-ones) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/RushiBhatti007/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RushiBhatti007/DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RushiBhatti007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RushiBhatti007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RushiBhatti007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RushiBhatti007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RushiBhatti007/DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RushiBhatti007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RushiBhatti007/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
