@@ -52,6 +52,7 @@
 | [0682-baseball-game](https://github.com/RushiBhatti007/DSA/tree/master/0682-baseball-game) |
 | [1390-four-divisors](https://github.com/RushiBhatti007/DSA/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RushiBhatti007/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/RushiBhatti007/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RushiBhatti007/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RushiBhatti007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RushiBhatti007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/RushiBhatti007/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0162-find-peak-element](https://github.com/RushiBhatti007/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RushiBhatti007/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RushiBhatti007/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1901-find-a-peak-element-ii](https://github.com/RushiBhatti007/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
