@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/RushiBhatti007/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RushiBhatti007/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/RushiBhatti007/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RushiBhatti007/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/RushiBhatti007/DSA/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/RushiBhatti007/DSA/tree/master/1390-four-divisors) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RushiBhatti007/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RushiBhatti007/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RushiBhatti007/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RushiBhatti007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RushiBhatti007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RushiBhatti007/DSA/tree/master/0162-find-peak-element) |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RushiBhatti007/DSA/tree/master/0225-implement-stack-using-queues) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RushiBhatti007/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
